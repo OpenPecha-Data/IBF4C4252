@@ -1,0 +1,25 @@
+id: IBF4C4252
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:15:54.674906'
+last_modified: '2022-06-15T20:15:54.674931'
+parser: null
+source_metadata:
+  title: Vimalamitra
+  language: bo
+  description: 'Texts by and about the eighth-century paṇḍita and Dzogchen master
+    Vimalamitra (dri med bshes gnyen), who is said to have attained the rainbow body:'
+  volume:
+    fC420:
+      title: Prayer to the Great Paṇḍita Vimalamitra
+      base_file: fC420.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
